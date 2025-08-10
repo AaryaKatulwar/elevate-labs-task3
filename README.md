@@ -71,6 +71,6 @@ Build and evaluate a simple & multiple linear regression model to predict house 
 
 ├── Housing.csv
 
-├── linear_regression_task3.ipynb
+├── Task3.ipynb
 
 ├── README.md
