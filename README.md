@@ -53,9 +53,9 @@ Build and evaluate a simple & multiple linear regression model to predict house 
 
 | Metric | Value |
 |--------|-------|
-| MAE    | ~XX   |
-| MSE    | ~XX   |
-| R²     | ~XX   |
+| MAE    | 979679.69   |
+| MSE    | 1771751116594.03   |
+| R²     | 0.65   |
 
 ---
 
